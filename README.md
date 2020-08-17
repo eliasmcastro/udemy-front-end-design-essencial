@@ -20,7 +20,7 @@
 <br>
 
 <p align="center">
-  <img alt="Detalhes" src=".github/page.jpg" width="100%">
+  <img alt="Detalhes" src=".github/page.png" width="100%">
 </p>
 
 ## Como executar o projeto
