@@ -1,7 +1,7 @@
 <h1 align="center">
-  <img alt="HTML5" src=".github/html5.svg" width="150px" /> + 
-  <img alt="CSS3" src=".github/css3.svg" width="150px" /> + 
-  <img alt="CSS3" src=".github/javascript.svg" width="150px" />
+  <img alt="HTML5" src=".github/html5.svg" width="130px" />&nbsp;&nbsp;&nbsp;
+  <img alt="CSS3" src=".github/css3.svg" width="130px" />&nbsp;&nbsp;&nbsp;
+  <img alt="CSS3" src=".github/javascript.svg" width="130px" />
 </h1>
 
 <h3 align="center">
