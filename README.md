@@ -10,7 +10,7 @@
 
 <p align="center">Aprenda uma base sólida de HTML, CSS e JS criando um site do zero com foco nos elementos de interface e interações</p>
 
-<p align="center">Por Brunão Sousa</p>
+<p align="center">Por Brunão Sousa - Udemy</p>
 
 <p align="center">
   <a href="#como-executar-o-projeto">Como executar o projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
@@ -19,8 +19,22 @@
 
 <br>
 
+<p align="center">Exercício CSS 01</p>
+
 <p align="center">
-  <img alt="Detalhes" src=".github/page.png" width="100%">
+  <img alt="Exercício CSS 01" src=".github/page1.png" width="90%">
+</p>
+
+<p align="center">Exercício CSS 02</p>
+
+<p align="center">
+  <img alt="Exercício CSS 02" src=".github/page2.png" width="90%">
+</p>
+
+<p align="center">JavaScript & Jquery</p>
+
+<p align="center">
+  <img alt="JavaScript & Jquery" src=".github/page3.png" width="90%">
 </p>
 
 ## Como executar o projeto
@@ -33,7 +47,6 @@
 - Introdução ao HTML e CSS
 - Layouts, Grids e Flexbox
 - Animações com CSS e SVG
-- Javascript
-- JQuery
+- Javascript & JQuery
 - Projeto Final
 - Publicando o Site
