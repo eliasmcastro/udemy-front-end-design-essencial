@@ -1,7 +1,7 @@
 <h3 align="center">
-  JQuery
+  jQuery
 </h3>
 
-<p align="center">JavaScript & Jquery</p>
+<p align="center">JavaScript & jQuery</p>
 
-<p align="center">Exemplo de uso do Jquery</p>
+<p align="center">Exemplo de uso do jQuery</p>
