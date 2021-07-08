@@ -5,7 +5,7 @@
 </h1>
 
 <h3 align="center">
-  Front-End Design Essencial - HTML, CSS e JS Completo do Zero da Udemy
+  Front-End Design Essencial - HTML, CSS e JS Completo do Zero
 </h3>
 
 <p align="center">Aprenda uma base sólida de HTML, CSS e JS criando um site do zero com foco nos elementos de interface e interações</p>
@@ -14,10 +14,8 @@
 
 <p align="center">
   <a href="#como-executar-o-projeto">Como executar o projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#conteudo-do-curso">Conteúdo do curso</a>
+  <a href="#conteúdo-do-curso">Conteúdo do curso</a>
 </p>
-
-<br>
 
 <p align="center">Exercício CSS 01</p>
 
@@ -48,5 +46,3 @@
 - Layouts, Grids e Flexbox
 - Animações com CSS e SVG
 - JavaScript & jQuery
-- Projeto Final
-- Publicando o Site
