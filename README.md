@@ -13,7 +13,7 @@
 <p align="center">Por Brunão Sousa - Udemy</p>
 
 <p align="center">
-  <a href="#como-executar-o-projeto">Como executar o projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#como-executar-o-projeto">Como executar o projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;
   <a href="#conteúdo-do-curso">Conteúdo do curso</a>
 </p>
 
